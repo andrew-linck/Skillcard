@@ -34,13 +34,13 @@ $rating = $wins * 99 - $matches;
 
 
 if($rating >= 200000) {
-  $emblem = '/emblems/chevron-16.png';
+  $emblem = '/emblems/chevron-17.png';
 }
 if($rating < 200000 && $rating > 99) {
-  $emblem = '/emblems/chevron-16.png';
+  $emblem = '/emblems/chevron-17.png';
 }
 if($rating < 99) {
-  $emblem = '/emblems/chevron-16.png';
+  $emblem = '/emblems/chevron-17.png';
 }
 
 ?>

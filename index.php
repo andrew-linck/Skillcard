@@ -20,8 +20,7 @@ if(strlen($player) >=  3 && strlen($player) <= 16) {
 ?>
           </div>
         </div>
-      </div>
-    </body>
+      </div> </body>
 <style>
 @font-face {
     font-family: 'balooregular';
@@ -81,4 +80,4 @@ input[type=text] {
 
 }
 </style>
-  </html>
+</html>
